@@ -11,7 +11,7 @@ const _sketch = function(_s) {
   const a = [0.5,0.5,0.5];
   const b = [0.5,0.5,0.5];
   const c = [1.0,1.0,1.0];
-  const d = [0.2,0.5,0.8];
+  const d = [0.33,0.67,0.8];
   const palette = new Palette(a,b,c,d);
   const bg = palette.getColor(0.1);
 
